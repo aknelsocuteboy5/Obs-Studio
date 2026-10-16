@@ -227,4 +227,4 @@ OBS Studio is provided as a complete free version with all features and updates 
 Unlock your creative potential today by downloading OBS Studio and start streaming like a pro!
 
 ---
-**Last updated:** 2026-10-16 08:52:41 UTC
+**Last updated:** 2026-10-16 13:50:08 UTC
